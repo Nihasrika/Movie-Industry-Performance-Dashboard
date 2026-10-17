@@ -49,4 +49,4 @@ The dashboard provides insights into movie industry performance, including box-o
 
 Project Status
 
-Data has been collected and cleaning has been completed using Power Query. The Power BI dashboard and visualizations are also done
+Data has been collected and cleaning has been completed using Power Query. The Power BI dashboard and visualizations are also done.
